@@ -1,10 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
+
+import NavBar from './layout/NavBar';
 
 const App = () => {
   return (
     <div>
-      <img data-testid="logo" src={logo} alt="logo" />
+      <NavBar />
     </div>
   );
 }
