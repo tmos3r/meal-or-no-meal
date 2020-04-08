@@ -1,7 +1,6 @@
 describe('launching home page', () => {
     beforeEach(() => {
         cy.visit('http://localhost:3000');
-        let logo = cy.get('[data-testid="logo"]');
     });
 
     it('displays navigation bar at top', () => {            
@@ -36,5 +35,9 @@ describe('launching home page', () => {
                             });
                     });
             });      
+    });
+
+    it('displays a calendar', () => {
+        cy.get('[data-testid="calendar"]').should('be.visible');
     });
 });
