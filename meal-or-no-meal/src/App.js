@@ -1,12 +1,19 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 
-import NavBar from './layout/NavBar';
+import Layout from './layout/Layout';
+import Home from './components/home/Home';
+
+import './layout/styles/all.css';
 
 const App = () => {
   return (
-    <div>
-      <NavBar />
-    </div>
+    <Fragment>
+      <Layout />
+      <div className="content">
+        <Home />
+      </div>
+    </Fragment>
+
   );
 }
 
