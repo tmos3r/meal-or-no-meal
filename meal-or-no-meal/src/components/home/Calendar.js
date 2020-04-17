@@ -2,10 +2,10 @@ import React from 'react';
 
 import { CalendarComponent } from '@syncfusion/ej2-react-calendars';
 
-const Calendar = () => {
+const Calendar = props => {
     return (
-        <div className data-testid="calendar">
-            <CalendarComponent />
+        <div data-testid="calendar">
+            <CalendarComponent change={props.onClick} />
         </div>
     );
 };
