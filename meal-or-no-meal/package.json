@@ -1,5 +1,6 @@
 {
   "name": "meal-or-no-meal",
+  "homepage": "http://tmos3r.github.io/meal-or-no-meal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +20,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,6 +40,7 @@
     ]
   },
   "devDependencies": {
-    "cypress": "^4.3.0"
+    "cypress": "^4.3.0",
+    "gh-pages": "^2.2.0"
   }
 }
