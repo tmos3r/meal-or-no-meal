@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/meal-or-no-meal/static/css/main.4a9aee8c.chunk.css",
-    "main.js": "/meal-or-no-meal/static/js/main.2b6abe3b.chunk.js",
-    "main.js.map": "/meal-or-no-meal/static/js/main.2b6abe3b.chunk.js.map",
+    "main.css": "/meal-or-no-meal/static/css/main.40a9c474.chunk.css",
+    "main.js": "/meal-or-no-meal/static/js/main.2e37db27.chunk.js",
+    "main.js.map": "/meal-or-no-meal/static/js/main.2e37db27.chunk.js.map",
     "runtime-main.js": "/meal-or-no-meal/static/js/runtime-main.44baddfa.js",
     "runtime-main.js.map": "/meal-or-no-meal/static/js/runtime-main.44baddfa.js.map",
-    "static/css/2.76d355fe.chunk.css": "/meal-or-no-meal/static/css/2.76d355fe.chunk.css",
-    "static/js/2.e4d16b12.chunk.js": "/meal-or-no-meal/static/js/2.e4d16b12.chunk.js",
-    "static/js/2.e4d16b12.chunk.js.map": "/meal-or-no-meal/static/js/2.e4d16b12.chunk.js.map",
+    "static/css/2.2beeb5dd.chunk.css": "/meal-or-no-meal/static/css/2.2beeb5dd.chunk.css",
+    "static/js/2.77fddc1d.chunk.js": "/meal-or-no-meal/static/js/2.77fddc1d.chunk.js",
+    "static/js/2.77fddc1d.chunk.js.map": "/meal-or-no-meal/static/js/2.77fddc1d.chunk.js.map",
     "index.html": "/meal-or-no-meal/index.html",
-    "precache-manifest.989c661bbade632d5893a744582b6939.js": "/meal-or-no-meal/precache-manifest.989c661bbade632d5893a744582b6939.js",
+    "precache-manifest.58a55c464cd867a5ed5748b8cc36285b.js": "/meal-or-no-meal/precache-manifest.58a55c464cd867a5ed5748b8cc36285b.js",
     "service-worker.js": "/meal-or-no-meal/service-worker.js",
-    "static/css/2.76d355fe.chunk.css.map": "/meal-or-no-meal/static/css/2.76d355fe.chunk.css.map",
-    "static/css/main.4a9aee8c.chunk.css.map": "/meal-or-no-meal/static/css/main.4a9aee8c.chunk.css.map",
-    "static/js/2.e4d16b12.chunk.js.LICENSE.txt": "/meal-or-no-meal/static/js/2.e4d16b12.chunk.js.LICENSE.txt",
+    "static/css/2.2beeb5dd.chunk.css.map": "/meal-or-no-meal/static/css/2.2beeb5dd.chunk.css.map",
+    "static/css/main.40a9c474.chunk.css.map": "/meal-or-no-meal/static/css/main.40a9c474.chunk.css.map",
+    "static/js/2.77fddc1d.chunk.js.LICENSE.txt": "/meal-or-no-meal/static/js/2.77fddc1d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/meal-or-no-meal/static/media/logo.42e1d8a9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.44baddfa.js",
-    "static/css/2.76d355fe.chunk.css",
-    "static/js/2.e4d16b12.chunk.js",
-    "static/css/main.4a9aee8c.chunk.css",
-    "static/js/main.2b6abe3b.chunk.js"
+    "static/css/2.2beeb5dd.chunk.css",
+    "static/js/2.77fddc1d.chunk.js",
+    "static/css/main.40a9c474.chunk.css",
+    "static/js/main.2e37db27.chunk.js"
   ]
 }
