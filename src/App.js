@@ -8,9 +8,7 @@ function App() {
     <Router>
       <Layout>
         <Switch>
-          <Route exact path="/">
-            <Recipes />
-          </Route>
+          <Route exact path="/"></Route>
           <Route path="/recipes">
             <Recipes />
           </Route>
