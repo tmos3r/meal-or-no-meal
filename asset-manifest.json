@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/meal-or-no-meal/static/css/main.dde9dec5.chunk.css",
-    "main.js": "/meal-or-no-meal/static/js/main.a49eb8eb.chunk.js",
-    "main.js.map": "/meal-or-no-meal/static/js/main.a49eb8eb.chunk.js.map",
-    "runtime-main.js": "/meal-or-no-meal/static/js/runtime-main.1ebaebc8.js",
-    "runtime-main.js.map": "/meal-or-no-meal/static/js/runtime-main.1ebaebc8.js.map",
-    "static/js/2.2e76f765.chunk.js": "/meal-or-no-meal/static/js/2.2e76f765.chunk.js",
-    "static/js/2.2e76f765.chunk.js.map": "/meal-or-no-meal/static/js/2.2e76f765.chunk.js.map",
-    "static/js/3.9224a356.chunk.js": "/meal-or-no-meal/static/js/3.9224a356.chunk.js",
-    "static/js/3.9224a356.chunk.js.map": "/meal-or-no-meal/static/js/3.9224a356.chunk.js.map",
+    "main.css": "/meal-or-no-meal/static/css/main.2f200d7a.chunk.css",
+    "main.js": "/meal-or-no-meal/static/js/main.75da95b0.chunk.js",
+    "main.js.map": "/meal-or-no-meal/static/js/main.75da95b0.chunk.js.map",
+    "runtime-main.js": "/meal-or-no-meal/static/js/runtime-main.c3a94fdc.js",
+    "runtime-main.js.map": "/meal-or-no-meal/static/js/runtime-main.c3a94fdc.js.map",
+    "static/js/2.5575a3de.chunk.js": "/meal-or-no-meal/static/js/2.5575a3de.chunk.js",
+    "static/js/2.5575a3de.chunk.js.map": "/meal-or-no-meal/static/js/2.5575a3de.chunk.js.map",
+    "static/js/3.b5140862.chunk.js": "/meal-or-no-meal/static/js/3.b5140862.chunk.js",
+    "static/js/3.b5140862.chunk.js.map": "/meal-or-no-meal/static/js/3.b5140862.chunk.js.map",
     "index.html": "/meal-or-no-meal/index.html",
-    "static/css/main.dde9dec5.chunk.css.map": "/meal-or-no-meal/static/css/main.dde9dec5.chunk.css.map",
-    "static/js/2.2e76f765.chunk.js.LICENSE.txt": "/meal-or-no-meal/static/js/2.2e76f765.chunk.js.LICENSE.txt",
+    "static/css/main.2f200d7a.chunk.css.map": "/meal-or-no-meal/static/css/main.2f200d7a.chunk.css.map",
+    "static/js/2.5575a3de.chunk.js.LICENSE.txt": "/meal-or-no-meal/static/js/2.5575a3de.chunk.js.LICENSE.txt",
     "static/media/index.8f5c099b.svg": "/meal-or-no-meal/static/media/index.8f5c099b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ebaebc8.js",
-    "static/js/2.2e76f765.chunk.js",
-    "static/css/main.dde9dec5.chunk.css",
-    "static/js/main.a49eb8eb.chunk.js"
+    "static/js/runtime-main.c3a94fdc.js",
+    "static/js/2.5575a3de.chunk.js",
+    "static/css/main.2f200d7a.chunk.css",
+    "static/js/main.75da95b0.chunk.js"
   ]
 }
