@@ -3,3 +3,9 @@
   height: 80px;
   background-color: var(--primary);
 }
+
+@media screen and (max-width: 992px) {
+  .navbarContainer {
+    display: none;
+  }
+}

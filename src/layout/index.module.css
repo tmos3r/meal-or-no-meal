@@ -5,7 +5,7 @@
   flex-direction: column;
 }
 
-.belowNavbarContainer {
+.nonNavbarContainer {
   display: flex;
   flex-direction: row;
   flex-grow: 1;
@@ -14,4 +14,10 @@
 .mainContentContainer {
   flex-grow: 1;
   background-color: var(--lightestSecondary);
+}
+
+@media screen and (max-width: 992px) {
+  .nonNavbarContainer {
+    flex-direction: column-reverse;
+  }
 }
