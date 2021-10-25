@@ -1,0 +1,23 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nonNavbarContainer {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+}
+
+.mainContentContainer {
+  flex-grow: 1;
+  background-color: var(--lightestSecondary);
+}
+
+@media screen and (max-width: 992px) {
+  .nonNavbarContainer {
+    flex-direction: column-reverse;
+  }
+}
