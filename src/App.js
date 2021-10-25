@@ -8,7 +8,7 @@ function App() {
     <Layout>
       <Router>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/meal-or-no-meal">
             <Recipes />
           </Route>
           <Route path="/recipes">
