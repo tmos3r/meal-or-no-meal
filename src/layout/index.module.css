@@ -13,7 +13,6 @@
 
 .mainContentContainer {
   flex-grow: 1;
-  background-color: var(--lightestSecondary);
 }
 
 @media screen and (max-width: 992px) {

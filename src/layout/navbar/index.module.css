@@ -2,7 +2,7 @@
   width: 100%;
   height: 80px;
   display: flex;
-  margin: 0 1rem;
+  border-bottom: solid 1px var(--lightGray);
 }
 
 @media screen and (max-width: 992px) {

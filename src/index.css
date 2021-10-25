@@ -18,4 +18,7 @@ code {
   --darkSecondary: #ec2f3b;
   --lightSecondary: #ff9b5a;
   --lightestSecondary: #ffd58e;
+  --darkGray: #333333;
+  --gray: #7e7e7e;
+  --lightGray: #d3d3d3;
 }
