@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/meal-or-no-meal/static/css/main.733bc69a.chunk.css",
+    "main.css": "/meal-or-no-meal/static/css/main.dde9dec5.chunk.css",
     "main.js": "/meal-or-no-meal/static/js/main.75da95b0.chunk.js",
     "main.js.map": "/meal-or-no-meal/static/js/main.75da95b0.chunk.js.map",
     "runtime-main.js": "/meal-or-no-meal/static/js/runtime-main.c3a94fdc.js",
@@ -10,14 +10,14 @@
     "static/js/3.b5140862.chunk.js": "/meal-or-no-meal/static/js/3.b5140862.chunk.js",
     "static/js/3.b5140862.chunk.js.map": "/meal-or-no-meal/static/js/3.b5140862.chunk.js.map",
     "index.html": "/meal-or-no-meal/index.html",
-    "static/css/main.733bc69a.chunk.css.map": "/meal-or-no-meal/static/css/main.733bc69a.chunk.css.map",
+    "static/css/main.dde9dec5.chunk.css.map": "/meal-or-no-meal/static/css/main.dde9dec5.chunk.css.map",
     "static/js/2.5575a3de.chunk.js.LICENSE.txt": "/meal-or-no-meal/static/js/2.5575a3de.chunk.js.LICENSE.txt",
     "static/media/index.8f5c099b.svg": "/meal-or-no-meal/static/media/index.8f5c099b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3a94fdc.js",
     "static/js/2.5575a3de.chunk.js",
-    "static/css/main.733bc69a.chunk.css",
+    "static/css/main.dde9dec5.chunk.css",
     "static/js/main.75da95b0.chunk.js"
   ]
 }
