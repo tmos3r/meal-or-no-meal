@@ -1,6 +1,4 @@
 body {
-  min-height: 100vh;
-  min-height: -webkit-fill-available;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -23,10 +21,4 @@ code {
   --darkGray: #333333;
   --gray: #7e7e7e;
   --lightGray: #d3d3d3;
-}
-
-#root {
-  height: 100vh;
-  height: -webkit-fill-available;
-  width: 100vw;
 }
