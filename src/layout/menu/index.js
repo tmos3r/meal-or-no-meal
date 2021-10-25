@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import { getIcon } from "../../utility/icons";
@@ -15,7 +16,9 @@ const Menu = () => {
             <div className={styles.menuOptionIcon}>
               <FontAwesomeIcon icon={getIcon(x.icon)} size="lg" />
             </div>
-            <div className={styles.menuOptionTitle}>{x.title}</div>
+            <div className={styles.menuOptionTitle}>
+              <Link to={x.path}>{x.title}</Link>
+            </div>
           </div>
         );
       })}

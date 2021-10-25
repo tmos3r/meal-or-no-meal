@@ -5,18 +5,18 @@ import Recipes from "./pages/recipes";
 
 function App() {
   return (
-    <Layout>
-      <Router>
+    <Router>
+      <Layout>
         <Switch>
-          <Route exact path="/meal-or-no-meal">
+          <Route exact path="/">
             <Recipes />
           </Route>
-          <Route path="/meal-or-no-meal/recipes">
+          <Route path="/recipes">
             <Recipes />
           </Route>
         </Switch>
-      </Router>
-    </Layout>
+      </Layout>
+    </Router>
   );
 }
 
