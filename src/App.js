@@ -11,7 +11,7 @@ function App() {
           <Route exact path="/meal-or-no-meal">
             <Recipes />
           </Route>
-          <Route path="/recipes">
+          <Route path="/meal-or-no-meal/recipes">
             <Recipes />
           </Route>
         </Switch>
