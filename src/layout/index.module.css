@@ -26,6 +26,11 @@
 
   .mainContentContainer {
     padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
     max-height: calc(100vh - 70px);
   }
 }
