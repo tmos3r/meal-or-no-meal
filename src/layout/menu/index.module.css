@@ -14,12 +14,15 @@
 }
 
 .menuOption:hover {
-  opacity: 0.7;
+  opacity: var(--opacity);
 }
 
 .menuOptionIcon {
-  margin: 0 1rem;
+  display: flex;
+  justify-content: center;
+  width: 80px;
 }
+
 .menuOptionTitle {
   font-size: 1.5rem;
   font-weight: 600;
@@ -27,7 +30,23 @@
 
 @media screen and (max-width: 992px) {
   .menuContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
     width: 100%;
     height: 70px;
+    border-top: solid 1px var(--lightGray);
+  }
+
+  .menuOption {
+    height: 70px;
+  }
+
+  .menuOptionTitle {
+    display: none;
+  }
+
+  .menuOptionIcon {
+    margin: 0;
   }
 }

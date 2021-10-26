@@ -1,6 +1,11 @@
 .logoContainer {
   height: 100%;
   margin: 0 1rem;
+  cursor: pointer;
+}
+
+.logoContainer:hover {
+  opacity: var(--opacity);
 }
 
 .logo {

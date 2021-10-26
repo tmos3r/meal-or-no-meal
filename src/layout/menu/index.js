@@ -22,7 +22,7 @@ const Menu = () => {
             }}
           >
             <div className={styles.menuOptionIcon}>
-              <FontAwesomeIcon icon={getIcon(x.icon)} size="lg" />
+              <FontAwesomeIcon icon={getIcon(x.icon)} size="2x" />
             </div>
             <div className={styles.menuOptionTitle}>{x.title}</div>
           </div>
