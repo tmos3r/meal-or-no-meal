@@ -22,4 +22,8 @@
   .nonNavbarContainer {
     flex-direction: column-reverse;
   }
+
+  .mainContentContainer {
+    padding: 0;
+  }
 }

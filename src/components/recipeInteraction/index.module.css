@@ -1,0 +1,12 @@
+.recipeInteractionContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.recipeInteractionSearchBar {
+  flex-grow: 1;
+  height: 45px;
+  background-color: var(--lightGray);
+}
