@@ -31,6 +31,6 @@
 
   .mainContentContainer {
     padding: 0;
-    max-height: calc(100vh - 70px);
+    max-height: calc(100% - 70px);
   }
 }
