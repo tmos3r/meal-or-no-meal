@@ -23,6 +23,8 @@ code {
 
 :root {
   --primary: #52b3b6;
+  --darkPrimary: #06676a;
+  --darkestPrimary: #003437;
   --secondary: #f26249;
   --darkSecondary: #ec2f3b;
   --lightSecondary: #ff9b5a;
@@ -30,6 +32,7 @@ code {
   --darkGray: #333333;
   --gray: #7e7e7e;
   --lightGray: #d3d3d3;
+  --white: #ffffff;
 
   --opacity: 0.7;
 }

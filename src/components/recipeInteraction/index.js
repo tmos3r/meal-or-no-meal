@@ -11,7 +11,7 @@ const RecipeInteraction = () => {
       <IconButton sx={{ marginLeft: ".5rem" }}>
         <SearchIcon />
       </IconButton>
-      <IconButton sx={{ marginLeft: ".5rem" }}>
+      <IconButton variant="full" sx={{ marginLeft: ".5rem" }}>
         <AddIcon />
       </IconButton>
     </div>
