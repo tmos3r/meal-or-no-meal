@@ -20,12 +20,17 @@
 }
 
 @media screen and (max-width: 992px) {
+  .container {
+    max-height: 100%;
+  }
+
   .nonNavbarContainer {
+    max-height: 100%;
     flex-direction: column-reverse;
   }
 
   .mainContentContainer {
     padding: 0;
-    max-height: calc(100vh - 300px);
+    max-height: calc(100vh - 70px);
   }
 }
