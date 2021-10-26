@@ -9,10 +9,6 @@
   width: 1rem;
 }
 
-.recipeListContainer::-webkit-scrollbar-track {
-  display: none;
-}
-
 .recipeListContainer::-webkit-scrollbar-thumb {
   border-radius: 100px;
   background-color: var(--lightGray);
