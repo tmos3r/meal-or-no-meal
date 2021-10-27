@@ -19,13 +19,13 @@ export const menuOptions = [
   {
     title: "Inventory",
     icon: "faTruckLoading",
-    path: "/Inventory",
+    path: "/inventory",
     component: Inventory,
   },
   {
     title: "Settings",
     icon: "faCog",
-    path: "/Settings",
+    path: "/settings",
     component: Settings,
   },
 ];

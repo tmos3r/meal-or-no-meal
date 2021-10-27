@@ -17,6 +17,10 @@
   opacity: var(--opacity);
 }
 
+.menuOption.currentlySelected {
+  color: var(--secondary);
+}
+
 .menuOptionIcon {
   display: flex;
   justify-content: center;
