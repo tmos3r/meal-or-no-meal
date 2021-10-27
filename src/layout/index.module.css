@@ -14,9 +14,14 @@
 .mainContentContainer {
   flex-grow: 1;
   display: flex;
-  justify-content: center;
   max-height: calc(100vh - 81px - 2rem);
   padding: 1rem;
+}
+
+.mainContent {
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 
 @media screen and (max-width: 992px) {

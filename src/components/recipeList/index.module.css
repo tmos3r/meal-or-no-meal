@@ -7,7 +7,7 @@
 }
 
 .recipeListContainer::-webkit-scrollbar {
-  width: 1rem;
+  width: 10px;
 }
 
 .recipeListContainer::-webkit-scrollbar-thumb {

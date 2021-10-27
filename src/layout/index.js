@@ -14,7 +14,9 @@ const Layout = ({ children }) => {
         <Navbar />
         <div className={styles.nonNavbarContainer}>
           <Menu />
-          <div className={styles.mainContentContainer}>{children}</div>
+          <div className={styles.mainContentContainer}>
+            <div className={styles.mainContent}>{children}</div>
+          </div>
         </div>
       </div>
     </ThemeProvider>

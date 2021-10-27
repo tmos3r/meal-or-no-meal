@@ -1,4 +1,5 @@
 .homeText {
   font-size: 2rem;
   color: var(--darkGray);
+  text-align: center;
 }
